@@ -21,4 +21,4 @@ the Data was gotten from
 {DOWNLOAD HERE}(https://drive.google.com/drive/folder...
 )
 # DASHBOARD
-(Brain Tumor Analyis)(https://github.com/user-attachments/assets/363f826d-4e66-43fc-a7e8-824fd6cac60f)
+(Brain Tumor Analyis)![WhatsApp Image 2026-01-22 at 12 25 07](https://github.com/user-attachments/assets/19cb8d8a-8219-4ee7-9f8e-5394e32f541d)
